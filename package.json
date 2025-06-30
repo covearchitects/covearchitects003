@@ -1,0 +1,13 @@
+
+{
+  "name": "cove-static-site",
+  "version": "1.0.0",
+  "description": "Static website for COVE Architects",
+  "scripts": {
+    "build": "echo 'No build needed for static site'",
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.0.1"
+  }
+}
